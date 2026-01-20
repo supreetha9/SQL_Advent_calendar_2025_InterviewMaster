@@ -20,12 +20,12 @@ This repository contains my solutions to the SQL Advent Calendar 2025 by Intervi
 
 ## Repository Structure
 SQL_Advent_Calendar_2025/
-├── Day_01.sql
-├── Day_02.sql
-├── Day_03.sql
-│ ...
-├── Day_25.sql
-└── README.md
+ Day_01.sql
+ Day_02.sql
+ Day_03.sql
+ ...
+ Day_25.sql
+ README.md
 
 Each SQL file includes:
 - Problem description as comments
